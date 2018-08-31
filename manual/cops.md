@@ -12,7 +12,7 @@ You can also load [custom cops](extensions.md#custom-cops).
 
 ### Style
 
-Style cops check for stylistic consistency of your code. Many of the them are
+Style cops check for stylistic consistency of your code. Many of them are
 based on the [Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide).
 
 ### Layout
